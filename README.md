@@ -1,28 +1,66 @@
-### Olá! Eu sou o Matheus Teixeira Passos 👋
+# Olá 👋, eu sou o Matheus Passos
 
-- 🌱 Estudando JavaScript
-- 📫 Contate-me no email: devmatheuspassos@gmail.com
-- 😄 Pronouns: ele/dele
+🚀 **Desenvolvedor Front-End Júnior**  
+🇧🇷 Brasil
 
-<div>
-  <a href="https://github.com/DevMatheusPassos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMatheusPassos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusPassos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Desenvolvo **aplicações web modernas, responsivas e de alta performance**.  
+Sou focado em **arquitetura de componentes, performance, código limpo (clean code)** e em criar soluções que geram valor real para o negócio.
 
-<div>
-  <br />
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+---
 
-##
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/devmatheuspassos">
+    <img src="https://img.shields.io/badge/GitHub-DevMatheusPassos-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🧠 O que eu faço e estudo
+
+-   🏗️ Desenvolvimento web responsivo e layouts adaptáveis para celular e computador
+-   🧩 HTML semântico e estruturação de páginas focada em acessibilidade
+-   🎨 Estilização moderna, transições e layouts avançados com CSS3
+-   💻 Criação de páginas interativas e lógica dinâmica utilizando JavaScript Puro (Vanilla JS)
+-   🤖 Controle de versão de projetos e organização de código com Git e GitHub
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
 
-<div> 
-  <a href="https://www.instagram.com/m4tth3ws021/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:devmatheuspassos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
- </div>
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Ferramentas & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devmatheuspassos&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheuspassos&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Filosofia
+
+> _"Código não serve apenas para resolver problemas de lógica.  
+> Serve para construir interfaces limpas, sustentáveis e que facilitem a vida do usuário final, gerando resultados reais para o negócio."_
+
  
 ![Snake animation](https://github.com/DevMatheusPassos/DevMatheusPassos/blob/output/github-contribution-grid-snake.svg)
