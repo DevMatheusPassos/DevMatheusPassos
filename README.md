@@ -62,5 +62,9 @@ Sou focado em **arquitetura de componentes, performance, código limpo (clean co
 > _"Código não serve apenas para resolver problemas de lógica.  
 > Serve para construir interfaces limpas, sustentáveis e que facilitem a vida do usuário final, gerando resultados reais para o negócio."_
 
- 
+
+<div align="center">
+
+![snake gif](https://github.com/DevMatheusPassos/DevMatheusPassos/blob/output/github-snake-dark.svg)
+</div>
 
