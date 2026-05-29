@@ -63,4 +63,4 @@ Sou focado em **arquitetura de componentes, performance, código limpo (clean co
 > Serve para construir interfaces limpas, sustentáveis e que facilitem a vida do usuário final, gerando resultados reais para o negócio."_
 
  
-![Snake animation](https://github.com/DevMatheusPassos/DevMatheusPassos/blob/output/github-contribution-grid-snake.svg)
+
